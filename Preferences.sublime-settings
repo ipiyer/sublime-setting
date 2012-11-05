@@ -1,0 +1,22 @@
+{
+	"auto_indent": true,
+	"color_scheme": "Packages/Color Scheme - Default/Sunburst.tmTheme",
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS",
+		"_build",
+		"dist",
+		"build",
+		"site"
+	],
+	"font_face": "Inconsolata",
+	"font_size": 18.0,
+	"smart_indent": true,
+	"tab_size": 2,
+	"theme": "Soda Light.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_automatic_white_space": true
+}
