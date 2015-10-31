@@ -2,26 +2,34 @@
 	"auto_upgrade_last_run": 1352167465,
 	"installed_packages":
 	[
+"installed_packages":
+	[
 		"AdvancedNewFile",
 		"Autocomplete Javascript with Method Signature",
 		"Console API Snippets (JavaScript)",
-		"Djaneiro",
 		"DocBlockr",
+		"Dockerfile Syntax Highlighting",
+		"DustBuster",
 		"Git",
+		"Handlebars",
 		"Http Requester",
+		"JavaScriptNext - ES6 Syntax",
+		"JsFormat",
+		"JSHint",
+		"JSX",
 		"LiveReload",
-		"Nettuts+ Fetch",
+		"nginx",
 		"Package Control",
 		"PlainTasks",
 		"Pretty JSON",
-		"Python Flake8 Lint",
 		"Python Pep8 Lint",
-		"SetDjangoSyntax",
+		"Sass",
+		"SassBeautify",
+		"SCSS",
 		"SideBarEnhancements",
 		"sublimelint",
 		"Task",
-		"Theme - Pseudo OSX",
-		"Theme - Soda",
-		"ZenCoding"
+		"Tomorrow Color Schemes"
 	]
+	
 }
